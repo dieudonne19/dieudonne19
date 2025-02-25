@@ -1,15 +1,20 @@
 # 👋 Hi, I'm Dieudoné ANDRIANJATO!
 
-I'm an aspiring **Full-Stack & Mobile Developer**, passionate about web technologies.  
-Currently training in **React, Node.js, AdonisJS, Flutter**, and more. 🚀  
+Web developer passionate about **Frontend, Backend, Mobile**, and **UX/UI**.  
+Currently in training and ready to take on new challenges.
 
-## 🔥 My Skills in Progress:
-- 🎨 **Frontend**: React.js, Vue.js, Tailwind CSS
-- ⚙️ **Backend**: Node.js, AdonisJS, Express, PostgreSQL
-- 📱 **Mobile**: Flutter, React Native
-- 📡 **DevOps**: Docker, GitHub Actions
+## 🔧 Technologies & Tools
+- **Frontend:** React, Vue.js, TailwindCSS, Next.js
+- **Backend:** Node.js, Express, AdonisJS, TypeScript
+- **Mobile:** React Native
+- **Databases:** PostgreSQL, MySQL
+- **Tools & Others:** Git, GitHub, Docker, Storybook, Figma, ...
+
+## 🌱 What I’m Currently Learning
+- Improving my **UX/UI** skills to create intuitive user interfaces.
 
 ## 📫 Where to Find Me?
+- Email: [Email](mailto:andrianjatodieudonne@gmail.com)
 - 💼 LinkedIn: [LinkedIn](www.linkedin.com/in/dieudonne-andrianjato-7b34472a1)
 
 🚀 **Always learning and building projects!**
