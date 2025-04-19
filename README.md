@@ -15,7 +15,7 @@ Currently in training and ready to take on new challenges.
 
 ## 📫 Where to Find Me?
 - Email: [Email](mailto:andrianjatodieudonne@gmail.com)
-- 💼 LinkedIn: [LinkedIn](www.linkedin.com/in/dieudonne-andrianjato-7b34472a1)
+- 💼 LinkedIn: [www.linkedin.com/in/dieudonne-andrianjato-7b34472a1]
 
 🚀 **Always learning and building projects!**
 
